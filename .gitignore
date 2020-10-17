@@ -1,3 +1,7 @@
 
 backend/.DS_Store
 .DS_Store
+backend/.vscode/settings.json
+backend/node_modules
+*.png
+*.jpeg
